@@ -1,9 +1,11 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'router.dart';
-// import 'package:common/config/config_noweb.dart' if (dart.library.html) 'package:common/config/config_web.dart';
-
+import 'package:flutter_web_plugins/url_strategy.dart';
 void main() {
-  // configureApp();
+  if(kIsWeb){
+    usePathUrlStrategy();
+  }
   runApp(const MyApp());
 }
 

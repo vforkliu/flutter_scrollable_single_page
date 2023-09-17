@@ -38,6 +38,8 @@ dependencies:
   common:
     path: ../common
   equatable: ^2.0.3
+  flutter_web_plugins:
+    sdk: flutter
 
 dev_dependencies:
   flutter_test:
