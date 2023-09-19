@@ -51,3 +51,5 @@ Flutter Web 应用支持两种基于 URL 的路由的配置方式：
 | login| home | shape|
 | ---------------------- | ---------------------- |  ---------------------- |
 | ![login](images/login_screen.png) | ![home](images/home_screen.png) | ![shape](images/shape_border_screen.png) |
+
+[Flutter Navigator 2.0 for Authentication and Bootstrapping — Part 4: Bootstrapping](https://medium.com/codex/flutter-navigator-2-0-for-authentication-and-bootstrapping-part-4-bootstrapping-6ff60c845331)
