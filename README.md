@@ -42,3 +42,12 @@ Flutter Web 应用支持两种基于 URL 的路由的配置方式：
 ## Query Params
 
 [Query Params](https://ulusoyca.medium.com/flutter-for-single-page-scrollable-websites-with-navigator-2-0-part-7-query-params-deb0acfe09fa)
+
+
+## Navigator 2
+
+[Flutter Navigator 2.0 for Authentication and Bootstrapping — Part 3: Authentication](https://ulusoyca.medium.com/flutter-navigator-2-0-for-authentication-and-bootstrapping-part-3-authentication-93dbcb5f0f0a)
+
+| login| home | shape|
+| ---------------------- | ---------------------- |  ---------------------- |
+| ![login](images/login_screen.png) | ![home](images/home_screen.png) | ![shape](images/shape_border_screen.png) |
